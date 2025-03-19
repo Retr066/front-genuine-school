@@ -6,6 +6,7 @@
   --gradient-color-1: #D5ADFB;
   --gradient-color-2: #D5E6F7;
   --color-primary: #133072;
+
 }
 
 @theme inline {
@@ -15,6 +16,11 @@
   --color-gradient-from: var(--gradient-color-1);
   --color-gradient-to: var(--gradient-color-2);
   --color-primary: var(--color-primary);
+  --color-secondary: #D5ADFB;
+  --color-tertiary: #FF4E07;
+  --color-quaternary: #602680;
+  --color-quinary: #D5E6F7;
+
 }
 
 

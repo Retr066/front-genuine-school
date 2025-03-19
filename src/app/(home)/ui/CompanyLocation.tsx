@@ -36,7 +36,7 @@ export default function CompanyLocation() {
           </button>
         </div>
       </div>
-      <div className="flex flex-col px-10 py-4 mb-15 mx-4 rounded-2xl gap-4 md:hidden justify-center items-center bg-[#D5ADFB] ">
+      <div className="flex flex-col px-10 py-4 mb-15 mx-4 rounded-2xl gap-4 md:hidden justify-center items-center bg-secondary">
         <p className='text-xl text-primary text-center font-medium'>
           Mira como encontrar el
           registro legal de Genuine

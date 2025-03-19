@@ -7,7 +7,7 @@ import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 export default function MissionVision() {
   return (
     <Element name='mission-vision'>
-      <section className='md:h-[calc(100vh-2rem)] flex my-5 flex-col justify-start items-center bg-gradient-to-t from-white from-60% to-[#D5E6F7] rounded-2xl'>
+      <section className='md:h-[calc(100vh-2rem)] flex my-5 flex-col justify-start items-center bg-gradient-to-t from-white from-60% to-quinary rounded-2xl'>
         <Image src='/imgs/jet-pack.png' alt='Mission Vision'
           className='w-3xl h-lg hidden md:block'
           width={600}

@@ -4,7 +4,6 @@ import JoinUs from "./ui/JoinUs";
 import WeAreAmerican from "./ui/WeAreAmerican";
 import MissionVision from "./ui/MissionVision";
 import NextSlideButton from "./_components/NextSlideButton";
-// import NextSlideButton from "./_components/NextSlideButton";
 
 export default function Home() {
   return (
